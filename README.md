@@ -1,3 +1,19 @@
-# OpenGL-Raycaster_v3
-This is the code from my YouTube video! YouTube-3DSage I still recommend watching the video so you follow along and see what each part does and how it works but here is the code if you need help. Thank you for the support, postive feedback, and comments!
-https://www.youtube.com/watch?v=w0Bm4IA-Ii8
+# Labyrinth Engine, first generation
+This is Labyrinth Engine, first generation.
+
+Labyrinth Engine Generation One(a.k.a. Labyrinth Engine First Generation, or LEG1 for short) is a raycaster engine forked from 3DSage's raycaster tutorials. Labyrinth adds many features to 3DSage's raycaster: Music, multiplayer(somewhat), multiple levels, etc...
+
+# To-dos
+## Music
+- Allow playing a music file
+- Allow stopping to play a music file
+
+## Multiplayer
+- Establish infrastructure
+- Implement Server
+- Implement Client
+
+## Level Loading
+- Loading screens
+- Switching levels
+- Level end stats
